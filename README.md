@@ -17,3 +17,9 @@ to the `requires` list in `setup.py`.
 
 
 Enjoy!
+
+# Running The Tests
+
+do this
+
+    $ ./run_tests.sh
